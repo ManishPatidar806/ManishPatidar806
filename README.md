@@ -46,7 +46,7 @@
 </div>
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishPatidar806&theme=transparent&show_icons=true)
+![Manish's Github Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=ManishPatidar806&show_icons=true&layout=compact&theme=transparent)
 
 
 <div align="left">
