@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! My name is Manish <br></h1>
-  <h4>I am Full Stack Web Developer.  I have worked on multiple projects. I am always ready to collaborate with others. My skillset includes proficiency in programming languages like C, C++, Java, Python, PHP, and JavaScript. I has also hands on experience in MySQL and MongoDB databases.
+  <h4>I am Full Stack Web Developer.  I have worked on multiple projects. I am always ready to collaborate with others. My skillset includes proficiency in programming languages like C, C++, Java, Python, and JavaScript. I has also hands on experience in MySQL and MongoDB databases.
 </h4>
-###
+
 
 <img align="right" height="150" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png"  />
 
