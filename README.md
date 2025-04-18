@@ -1,10 +1,25 @@
 <h1 align="left">Hi 👋! My name is Manish <br></h1>
-  <h4>I am Full Stack Web Developer.  I have worked on multiple projects. I am always ready to collaborate with others. My skillset includes proficiency in programming languages like C, C++, Java, Python, and JavaScript. I has also hands on experience in MySQL and MongoDB databases.
-</h4>
+
+I'm a **Full Stack Web Developer** passionate about building modern web applications.  
+Always open to collaboration and learning new technologies.
+
+###
+
+<div align="left">
+  
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishPatidar806&showicons=true&layout=compact&theme=transparent&border_radius=0.2&border=0020EB" 
+  style="border: 2px solid blue; border-radius: 8px;" 
+  height="150" 
+  alt="languages graph" 
+/>
+
+</div>
+
+###
 
 
-
-
+###
 
 <div align="left">
  <table>
@@ -22,8 +37,8 @@
     <tr>
         <td><b>Backend</b></td>
         <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
         </td>
@@ -36,6 +51,8 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
         </td>
     </tr>
 </table>
@@ -44,15 +61,26 @@
 ###
 
 <div align="left">
- 
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
- <a href="https://www.linkedin.com/in/manishpatidar1180" target="blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+<!--  <a href="https://leetcode.com/CodeMars/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=slack&label=&color=FD9020&logoColor=blac&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  </a> -->
+  <a href="www.linkedin.com/in/manishpatidar806" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:manishpatidar1180@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
-![Manish's Github Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=ManishPatidar806&show_icons=true&layout=compact&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ManishPatidar806&theme=dark&border_radius=0.2&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=110&background=FF5B5B00&border=0020EB&stroke=0020EB&ring=0020EB&fire=EB0000&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=0020EB)](https://git.io/streak-stats)
+<br clear="left">
+<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
 
-
-
+###
