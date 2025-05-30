@@ -80,7 +80,6 @@ Always open to collaboration and learning new technologies.
 
 ###
 [![GitHub Streak](https://streak-stats.demolab.com?user=ManishPatidar806&theme=dark&border_radius=0.2&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=110&background=FF5B5B00&border=0020EB&stroke=0020EB&ring=0020EB&fire=EB0000&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=0020EB)](https://git.io/streak-stats)
-<br clear="left">
-<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
+
 
 ###
