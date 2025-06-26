@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋! My name is Manish <br></h1>
+<h1 align="left">👋 Hi, I'm Manish<br></h1>
 
-I'm a **Full Stack Web Developer** passionate about building modern web applications.  
-Always open to collaboration and learning new technologies.
+a full stack web developer with a strong focus on Java and backend development. I enjoy building modern, responsive, and scalable web applications using technologies like Java, Spring Boot, and Sql, while also working with front-end frameworks like React to deliver seamless user experiences.<br>
+
 
 ###
 
@@ -77,9 +77,6 @@ Always open to collaboration and learning new technologies.
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-[![GitHub Streak](https://streak-stats.demolab.com?user=ManishPatidar806&theme=dark&border_radius=0.2&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=110&background=FF5B5B00&border=0020EB&stroke=0020EB&ring=0020EB&fire=EB0000&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=0020EB)](https://git.io/streak-stats)
 
 
 ###
