@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-**Java Backend Developer** passionate about building scalable systems with **Spring Boot, REST APIs, and microservices**. Skilled in **MySQL, MongoDB**, and integrating tools like **Stripe, Firebase, and Cloudinary**.  
+**Java Backend Developer** passionate about building scalable systems with **Spring Boot, REST APIs, and microservices**. Skilled in **MySQL, MongoDB**, and integrating tools like **Stripe and Cloudinary**.  
 
 💡 **I enjoy solving real-world problems through clean, maintainable code.**  
 
@@ -17,8 +17,8 @@
 - **Languages & Frameworks:** Java, Spring Boot, RESTful APIs, Servlets, JSP  
 - **Databases:** MySQL, MongoDB  
 - **Frontend:** React.js, Tailwind CSS, Bootstrap 5  
-- **Tools & Others:** Git, Maven, Swagger, Postman, Stripe, Cloudinary, Firebase, JWT, OAuth  
-- **Architecture:** Microservices, Eureka Server, FeignClient  
+- **Tools & Others:** Git, Maven, Swagger, Postman, Stripe, Cloudinary, JWT, OAuth  
+- **Architecture:** Microservices  
 
 ---
 
