@@ -7,31 +7,42 @@
 ---
 
 ## 🚀 About Me  
-**Java Backend Developer** passionate about building scalable systems with **Spring Boot, REST APIs, and microservices**. Skilled in **MySQL, MongoDB**, and integrating tools like **Stripe and Cloudinary**.  
+I am a **Full Stack Developer** with strong hands-on experience in building **scalable web applications and microservice-based systems** using **Spring Boot and React.js**.  
 
-💡 **I enjoy solving real-world problems through clean, maintainable code.**  
+I have industry exposure as a **Software Developer Intern**, where I worked on **AI-powered chatbot solutions**, API integrations, and backend optimizations for real-world enterprise use cases. I enjoy designing secure, efficient systems and continuously improving my problem-solving and development skills.  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages & Frameworks:** Java, Spring Boot, RESTful APIs, Servlets, JSP  
+- **Languages:** Java, Python  
+- **Backend:** Spring Boot, RESTful APIs, Spring Security, JWT Authentication  
+- **Frontend:** React.js, Tailwind CSS  
 - **Databases:** MySQL, MongoDB  
-- **Frontend:** React.js, Tailwind CSS, Bootstrap 5  
-- **Tools & Others:** Git, Maven, Swagger, Postman, Stripe, Cloudinary, JWT, OAuth  
-- **Architecture:** Microservices  
+- **Microservices & Architecture:** Spring Cloud, Eureka, API Gateway, Feign Client  
+- **Cloud & DevOps:** Docker, Jenkins, Kubernetes, Ansible, AWS (EC2, S3), CI/CD Pipelines  
+- **Tools & Platforms:** Git, Maven, Postman, Swagger, Cloudinary, Stripe, SonarQube, Nexus  
 
 ---
 
 ## 📌 Featured Projects  
 
 ### 🔹 [Tijori](https://github.com/ManishPatidar806/Tijori)  
-*Mobile-based expense tracker with SMS auto-tracking & real-time analytics.*  
+*Mobile-based expense management application with SMS-based transaction detection and real-time analytics.*  
+- Built REST APIs using Spring Boot for expenses, goals, analytics, and user profiles  
+- Implemented OTP-based authentication and email notifications  
+- Focused on data security, validation, and real-time insights  
 
-### 🔹 [GamingZone](https://github.com/ManishPatidar806/GameingZone_MicroService)  
-*E-commerce platform for gaming products with Stripe payment integration & microservice architecture.*  
+### 🔹 [G2Store](https://github.com/ManishPatidar806/G2Store)
+*Full-stack e-commerce platform for gaming products built on a microservice architecture.*  
+- Implemented product browsing, cart management, and secure Stripe payments  
+- Integrated Spring Security, email verification, and password recovery  
+- Used Cloudinary for media storage and Spring Cloud components for service communication  
 
-### 🔹 [ThinkAndSelect](https://github.com/ManishPatidar806/ThinkAndSelect.git)  
-*Online quiz platform with certificate generation, Spring Security & online compiler.*  
+### 🔹 [Cyntro](https://github.com/ManishPatidar806/Cyntro)  
+*Cyntro is a learning platform offering practice and exam modes.*  
+- Developed secure quiz modules with certificate generation  
+- Integrated Spring Security and an online compiler for multiple programming languages  
+- Focused on scalability and smooth user experience  
 
 ---
 
