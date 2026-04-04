@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Manish%20Patidar&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Banner](https://raw.githubusercontent.com/ManishPatidar806/ManishPatidar806/main/Banner.png)
 
 # 👋 Hi, I'm Manish Patidar  
 
@@ -39,8 +39,6 @@ I like working on problems where performance, security, and clean architecture m
 
 ###  DevOps & Tools
 `Docker` `Git` `Maven` `Postman` `Swagger` `Cloudinary` `Stripe`
-
-<br>
 
 
 ---
@@ -94,14 +92,6 @@ I like working on problems where performance, security, and clean architecture m
 -  Learning more about **microservices and system design**
 -  Practicing **Data Structures & Algorithms**
 -  Exploring **cloud and deployment (AWS, Docker)**
-
----
-
-##  Let’s Connect
-
- **[manishpatidar1180@gmail.com](mailto:manishpatidar1180@gmail.com)**  
- [LinkedIn](https://www.linkedin.com/in/manishpatidar806/)  
- [Portfolio](https://www.manishpatidar.dev/)  
 
 ---
 
