@@ -1,60 +1,108 @@
-# Hi there, I'm Manish Patidar 👋  
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Manish%20Patidar&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ManishPatidar806&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manishpatidar806/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](https://www.manishpatidar.dev/)  
+# 👋 Hi, I'm Manish Patidar  
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&size=22&width=500&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
 
-## 🚀 About Me  
-I am a **Full Stack Developer** with strong hands-on experience in building **scalable web applications and microservice-based systems** using **Spring Boot and React.js**.  
+![Profile Views](https://komarev.com/ghpvc/?username=ManishPatidar806&label=Profile%20views&color=0e75b6&style=flat)
 
-I have industry exposure as a **Software Developer Intern**, where I worked on **AI-powered chatbot solutions**, API integrations, and backend optimizations for real-world enterprise use cases. I enjoy designing secure, efficient systems and continuously improving my problem-solving and development skills.  
-
----
-
-## 🛠️ Tech Stack  
-- **Languages:** Java, Python  
-- **Backend:** Spring Boot, RESTful APIs, Spring Security, JWT Authentication  
-- **Frontend:** React.js, Tailwind CSS  
-- **Databases:** MySQL, MongoDB  
-- **Microservices & Architecture:** Spring Cloud, Eureka, API Gateway, Feign Client  
-- **Cloud & DevOps:** Docker, Jenkins, Kubernetes, Ansible, AWS (EC2, S3), CI/CD Pipelines  
-- **Tools & Platforms:** Git, Maven, Postman, Swagger, Cloudinary, Stripe, SonarQube, Nexus  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manishpatidar806/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](https://www.manishpatidar.dev/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:manishpatidar1180@gmail.com)
 
 ---
 
-## 📌 Featured Projects  
+##  About Me
 
-### 🔹 [Tijori](https://github.com/ManishPatidar806/Tijori)  
-*Mobile-based expense management application with SMS-based transaction detection and real-time analytics.*  
-- Built REST APIs using Spring Boot for expenses, goals, analytics, and user profiles  
-- Implemented OTP-based authentication and email notifications  
-- Focused on data security, validation, and real-time insights  
+💻 I’m a **Full Stack Java Developer** who enjoys building **scalable backend systems and real-world applications** using **Spring Boot and React.js**.
 
-### 🔹 [G2Store](https://github.com/ManishPatidar806/G2Store)
-*Full-stack e-commerce platform for gaming products built on a microservice architecture.*  
-- Implemented product browsing, cart management, and secure Stripe payments  
-- Integrated Spring Security, email verification, and password recovery  
-- Used Cloudinary for media storage and Spring Cloud components for service communication  
+I like working on problems where performance, security, and clean architecture matter. During my internship, I worked on backend features, API integrations, and improving system efficiency.
 
-### 🔹 [Cyntro](https://github.com/ManishPatidar806/Cyntro)  
-*Cyntro is a learning platform offering practice and exam modes.*  
-- Developed secure quiz modules with certificate generation  
-- Integrated Spring Security and an online compiler for multiple programming languages  
-- Focused on scalability and smooth user experience  
+-  Strong in **Java, Spring Boot, REST APIs, and Microservices**
+-  Experienced in **Spring Security and JWT authentication**
+-  Build responsive UIs using **React.js**
+-  Focused on **scalability, performance, and clean code**
 
 ---
 
-## 📊 GitHub Stats  
 
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishPatidar806&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPatidar806&layout=compact&theme=tokyonight)  
+##  Tech Stack
+
+###  Backend
+`Java` `Spring Boot` `Spring Security` `Microservices` `REST APIs`
+
+###  Frontend
+`React.js` `JavaScript` `Tailwind CSS`
+
+###  Databases
+`MySQL` `MongoDB`
+
+###  DevOps & Tools
+`Docker` `Git` `Maven` `Postman` `Swagger` `Cloudinary` `Stripe`
+
+<br>
+
 
 ---
 
-## 📫 Let’s Connect  
-📧 **Email:** manishpatidar1180@gmail.com  
-🔗 **[LinkedIn](https://www.linkedin.com/in/manishpatidar806/)** | **[Portfolio](https://www.manishpatidar.dev/)** 
+##  Featured Projects
+
+### 🔹 [Tijori](https://github.com/ManishPatidar806/Tijori)
+
+ *Smart Expense Management System with Real-Time Analytics*
+
+- Built an SMS-based system to track expenses automatically  
+- Developed REST APIs using Spring Boot  
+- Implemented authentication, caching, and rate limiting  
+- Focused on performance and real-time insights  
 
 ---
+
+### 🛒 [G2Store](https://github.com/ManishPatidar806/G2Store)
+
+ *Microservices-Based E-Commerce Platform*
+
+- Built full-stack platform with authentication, cart, and order flow  
+- Integrated Stripe payments and Cloudinary storage  
+- Designed microservices using Eureka, Gateway, and Feign  
+- Added monitoring using Spring Boot Admin  
+
+---
+
+### 🧠 [Cyntro](https://github.com/ManishPatidar806/Cyntro)
+
+ *Interactive Learning Platform with Online Compiler*
+
+- Developed quiz-based system with certification  
+- Integrated multi-language code compiler APIs  
+- Built full-stack app using Spring Boot and React.js  
+- Focused on user experience and scalability  
+
+---
+
+##  GitHub Stats
+
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishPatidar806&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPatidar806&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ManishPatidar806&theme=tokyonight)
+
+---
+
+##  Current Focus
+
+-  Learning more about **microservices and system design**
+-  Practicing **Data Structures & Algorithms**
+-  Exploring **cloud and deployment (AWS, Docker)**
+
+---
+
+##  Let’s Connect
+
+ **[manishpatidar1180@gmail.com](mailto:manishpatidar1180@gmail.com)**  
+ [LinkedIn](https://www.linkedin.com/in/manishpatidar806/)  
+ [Portfolio](https://www.manishpatidar.dev/)  
+
+---
+
+⭐ *I enjoy building things that are simple, scalable, and actually useful.*
