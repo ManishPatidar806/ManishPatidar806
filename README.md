@@ -80,9 +80,6 @@ I like working on problems where performance, security, and clean architecture m
 
 ##  GitHub Stats
 
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishPatidar806&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPatidar806&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ManishPatidar806&theme=tokyonight)
 
 ---
