@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Manish Patidar  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&size=22&width=500&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&size=22&width=500&lines=Full+Stack+Developer;Spring+Boot+%7C+Microservices;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManishPatidar806&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -14,7 +14,7 @@
 
 ##  About Me
 
-💻 I’m a **Full Stack Java Developer** who enjoys building **scalable backend systems and real-world applications** using **Spring Boot and React.js**.
+💻 I’m a **Full Stack Developer** who enjoys building **scalable backend systems and real-world applications** using **Spring Boot and React.js**.
 
 I like working on problems where performance, security, and clean architecture matter. During my internship, I worked on backend features, API integrations, and improving system efficiency.
 
